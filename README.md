@@ -1,2 +1,16 @@
-# Image-Contest-App
- Contains Login, SignUp, Logout and a home page which shows uploaded images with a bottom tab bar containing home, Upload picture and About. It has camera that captures image and post it.
+# picture_contest_app
+
+A Flutter project to upload images and conduct competion
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
